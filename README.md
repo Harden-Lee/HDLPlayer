@@ -1,0 +1,2 @@
+# HDLPlayer
+一个集成了IJKPlayer、ALiYunPlayer、AgoraYunPlayer以及ZegoYunPlayer的播放器；它可以按照用户需求选择基础播放器
